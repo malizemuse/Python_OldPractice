@@ -6,10 +6,10 @@ Specifically, there are 9 files, none of which are really related to each other,
 written in Python that covers a good understanding of how to code in Python.
 
 
-A little overview.
+Overview of the 9 files.
 
-AgeInSecondsDiff.py
-Gives the age difference between two people in seconds after birthdate input.
+AgeInSecondsDiff
+  Gives the age difference between two people in seconds after birthdate input.
   
 DetermineKeySig.py
   Determines the key signature of a music piece based off whether it is major/minor
