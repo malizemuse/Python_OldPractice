@@ -7,7 +7,7 @@ written in Python that covers a good understanding of how to code in Python.
 
 The last few are simple CodeCademy exercises, involving functions and classes.
 
-
+# 
 # Book Exercises
 
 # AgeInSecondsDiff.py       
@@ -43,6 +43,7 @@ Gets rid of extra white space in a user-inputted sentence.
 Evaluates an RPN mathematical expression inputted by the user. For the purpose of
 practice with the stack data structure.
 
+# 
 # CodeCademy Exercises
 
 # censor.py
@@ -52,9 +53,7 @@ Censors a given word with * in a given string text.
 Counts occurrences of an element (item) in a given list (sequence)
 
 # median.py
-# 
 Returns median from a given list (numbers)
 
 # remove_duplicates.py
-# 
 Removes duplicate elements within a given list of numbers
