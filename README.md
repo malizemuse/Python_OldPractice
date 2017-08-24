@@ -40,3 +40,15 @@ Overview of the 9 files.
 # RPNEvaluation.py
   Evaluates an RPN mathematical expression inputted by the user. For the purpose of
   practice with the stack data structure.
+
+# censor.py
+  Censors a given word with * in a given string text.
+
+# count.py
+  Counts occurrences of an element (item) in a given list (sequence)
+
+# median.py
+  Returns median from a given list (numbers)
+
+# remove_duplicates.py
+  Removes duplicate elements within a given list of numbers
