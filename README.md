@@ -44,16 +44,19 @@ Evaluates an RPN mathematical expression inputted by the user. For the purpose o
 practice with the stack data structure.
 
 # 
-# CodeCademy Exercises
+# Online Exercises
+
+# car_class.py
+A simple car class.
 
 # censor.py
 Censors a given word with * in a given string text.
 
 # count.py
-Counts occurrences of an element (item) in a given list (sequence)
+Counts occurrences of an element (item) in a given list (sequence).
 
 # median.py
-Returns median from a given list (numbers)
+Returns median from a given list (numbers).
 
 # remove_duplicates.py
-Removes duplicate elements within a given list of numbers
+Removes duplicate elements within a given list of numbers.
