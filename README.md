@@ -46,17 +46,17 @@ practice with the stack data structure.
 # 
 # Online Exercises
 
-# car_class.py
+car_class.
 A simple car class.
 
-# censor.py
+censor.
 Censors a given word with * in a given string text.
 
-# count.py
+count.
 Counts occurrences of an element (item) in a given list (sequence).
 
-# median.py
+median.
 Returns median from a given list (numbers).
 
-# remove_duplicates.py
+remove_duplicates.
 Removes duplicate elements within a given list of numbers.
